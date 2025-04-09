@@ -2,7 +2,7 @@
 
 ## توضیحات فارسی
 
-### درباره مدل DeepCoder (DeepCoder) یک مدل زبانی هوش مصنوعی اوپن‌سورس (Open-Source) جدید با ۱۴ میلیارد پارامتر است که برای استدلال (Reasoning) و تولید کد (Code Generation) بهینه‌سازی شده است. این مدل با استفاده از روش تقویتی توزیع‌شده (Distributed RL) روی مدل پایه Deepseek-R1-Distilled-Qwen-14B (Deepseek-R1-Distilled-Qwen-14B) فاین‌تیون (Fine-Tuned) شده است.
+### درباره مدل DeepCoder یک مدل زبانی هوش مصنوعی اوپن‌سورس (Open-Source) جدید با ۱۴ میلیارد پارامتر است که برای استدلال (Reasoning) و تولید کد (Code Generation) بهینه‌سازی شده است. این مدل با استفاده از روش تقویتی توزیع‌شده (Distributed RL) روی مدل پایه Deepseek-R1-Distilled-Qwen-14B (Deepseek-R1-Distilled-Qwen-14B) فاین‌تیون (Fine-Tuned) شده است.
 
 #### ویژگی‌های کلیدی:
 - **عملکرد برجسته**: در بنچمارک LiveCodeBench به دقت ۶۰.۶٪ Pass@1 رسیده است که ۸٪ بهتر از مدل پایه عمل می‌کند.
